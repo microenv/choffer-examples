@@ -1,0 +1,14 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Choffer Hello World Example",
+  "main": "src/index.js",
+  "author": "Giovanne Afonso <giovanneafonso@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "choffer": "^0.1.1"
+  }
+}
